@@ -1,0 +1,134 @@
+Author	Title	Tool: label	Tool: score	Szepes-Szerdahelyi	Comment
+Arany János	A RAB GÓLYA	trochaic	0.69	trochaic	
+Arany János	TOLDI	trochaic	0.57	trochaic	
+Babits Mihály	Páris	trochaic	0.71	trochaic	
+Babits Mihály	A Danaidák	trochaic	0.51	trochaic	
+Verseghy Ferenc	A’ Válogató.	trochaic	0.68	trochaic	
+Fazekas Mihály	Nyári esti dal	trochaic	0.88	trochaic	
+Kazinczy Ferenc	BOR MELLETT	trochaic	0.73	trochaic	
+Bajza József	ISTEN HOZZÁD.	trochaic	0.81	trochaic	
+Csokonai Vitéz Mihály	Az estvéhez [2]	trochaic	0.94	trochaic	
+Bajza József	AZ APÁCA.	trochaic	0.92	trochaic	
+Csokonai Vitéz Mihály	A reményhez	trochaic	0.78	trochaic	
+József Attila	SZÁRADOK, TÖRŐDÖM	trochaic	0.73	trochaic	
+Kölcsey Ferenc	CSOLNAKON	trochaic	0.49	trochaic	(Book: “harmadik epitritusokkal állította párba a teljes sort” (272) – that is, only every second line is trochaic according to the book.)
+Petőfi Sándor	ELSŐ SZERELEM	trochaic	0.84	trochaic	
+Vörösmarty Mihály	HEDVIG	trochaic	0.86	trochaic	
+Verseghy Ferenc	Lilla.	anapestic	0.31	anapestic	
+Földi János	Halotti Vers, edgy gyenge szülött temetésére 1781-ben.	anapestic	0.66	anapestic	
+Csokonai Vitéz Mihály	Édes keserűség	anapestic	0.71	anapestic	
+Petőfi Sándor	TEMETŐBEN	anapestic	0.55	anapestic	
+Petőfi Sándor	FORRADALOM	anapestic	0.9	anapestic	
+Kosztolányi Dezső	Boldog, szomorú dal	anapestic	0.51	anapestic	
+József Attila	HA A HOLD SÜT...	anapestic	0.8	anapestic	
+Arany János	„A TÖLGYEK ALATT”	anapestic	0.42	anapestic	
+Arany János	A TÖLGYEK ALATT	anapestic	0.39	anapestic	
+Babits Mihály	Mozgófénykép	anapestic	0.41	anapestic	
+Garay János	A VÉSZ SZELLEME.	trochaic	0.41	anapestic	"Book: “A vész című költeményének anapesztikus versszakai jambikus sorral zárulnak” (""The anapestic stanzas of the poem A vész end with an iambic line.”) (283) – besides this, the tool cannot analyze the poem well because it takes the “a” articles as short syllables."
+Csokonai Vitéz Mihály	Keserédes	iambic	0.83	iambic	
+Csokonai Vitéz Mihály	A Hafíz sírhalma	iambic	0.76	iambic	
+Juhász Gyula	Anakreoni dal [1]	iambic	0.77	iambic	
+József Attila	MUNKÁSOK	iambic	0.49	iambic	
+Ady Endre	TALÁN HELLÁSZ KÜLDÖTT	iambic	0.45	iambic	
+Petőfi Sándor	MI KÉK AZ ÉG!	iambic	0.86	iambic	
+József Attila	[SZÜRKÜLET]	iambic	0.72	iambic	
+Babits Mihály	Jónás könyve	iambic	0.62	iambic	
+József Attila	THOMAS MANN ÜDVÖZLÉSE	iambic	0.55	iambic	
+Vajda János	Húsz év mulva	iambic	0.79	iambic	
+Petőfi Sándor	VÉRES NAPOKRÓL ÁLMODOM...	iambic	0.7	iambic	
+Garay János	KONT.	iambic	0.81	iambic	
+Arany János	A WALESI BÁRDOK	iambic	0.75	iambic	
+Arany János	V. LÁSZLÓ	iambic	0.78	iambic	
+Juhász Gyula	Szüzek	iambic	0.78	iambic	
+Babits Mihály	Szíttál-e lassú mérgeket?	iambic	0.67	iambic	
+Arany János	CSABA TRILÓGIA [1]	trochaic	0.39	iambic	Caesura at three and a half feet
+Tóth Árpád	ŐSZI KÉRDÉS	trochaic	0.28	iambic	Caesura at three and a half feet
+Babits Mihály	LAODAMEIA	iambic	0.45	iambic	
+Petőfi Sándor	SALGÓ	iambic	0.76	iambic	
+Ady Endre	A GARE DE L’ESTEN	iambic	0.35	iambic	The book cites the poem as an example that in certain cases, it replaces the iamb with an anapaest.
+József Attila	A VÁROS PEREMÉN	iambic	0.42	iambic	The book cites the poem as an example that in certain cases, it replaces the iamb with an anapaest.
+Arany János	SZÉCHENYI EMLÉKEZETE	iambic	0.76	iambic	
+Virág Benedek	HELMECZI MIHÁLYNAK [2]	dactylic	0.49	dactylic	hexameter
+Csokonai Vitéz Mihály	A békesség és a hadi érdem	trochaic	0.41	dactylic	hexameter
+Fazekas Mihály	Lúdas Matyi	dactylic	0.43	dactylic	hexameter
+Vörösmarty Mihály	Zalán futása	dactylic	0.45	dactylic	hexameter
+Vörösmarty Mihály	EGER	dactylic	0.46	dactylic	hexameter
+Vörösmarty Mihály	CSERHALOM	dactylic	0.44	dactylic	hexameter
+Garay János	CSATÁR-BÓL.	dactylic	0.4	dactylic	hexameter
+Arany János	AZ ELVESZETT ALKOTMÁNY	dactylic	0.54	dactylic	hexameter
+Dsida Jenő	Kóborló délután kedves kutyámmal	dactylic	0.78	dactylic	hexameter
+Petőfi Sándor	JÁTSZIK ÖREG FÖLDÜNK...	dactylic	0.46	dactylic	hexameter
+Radnóti Miklós	ELSŐ ECLOGA	dactylic	0.79	dactylic	hexameter
+Petőfi Sándor	LEVÉL ARANY JÁNOSHOZ	dactylic	0.4	dactylic	hexameter
+Babits Mihály	Klasszikus álmok...	dactylic	0.52	dactylic	hexameter
+Virág Benedek	CSEHINEK	dactylic	0.61	dactylic	
+Juhász Gyula	Ovid tavaszdala	dactylic	0.64	dactylic	pentameter
+Berzsenyi Dániel	A TÁNCOK	dactylic	0.26	dactylic	distich
+Berzsenyi Dániel	NAPOLEONHOZ	dactylic	0.3	dactylic	distich
+Kisfaludy Károly	Mohács.	dactylic	0.5	dactylic	distich
+Kölcsey Ferenc	HUSZT	dactylic	0.56	dactylic	distich
+Juhász Gyula	Negyvenhatosok	dactylic	0.55	dactylic	distich
+Babits Mihály	Hiszekegy	dactylic	0.27	dactylic	distich
+József Attila	EGY SPANYOL FÖLDMÍVES SÍRVERSE	dactylic	0.65	dactylic	distich
+Babits Mihály	Május huszonhárom Rákospalotán	dactylic	0.66	dactylic	distich
+Babits Mihály	Új Leoninusok	dactylic	0.55	dactylic	distich
+József Attila	LEÁNYKÉRŐ ÉNEK	dactylic	0.81	dactylic	
+Radnóti Miklós	Éjszaka	dactylic	0.88	dactylic	
+Arany János	ÁRTATLAN DAC	dactylic	0.34	dactylic	
+Tompa Mihály	VÍZ-DAL.	dactylic	0.55	dactylic	
+Komjáthy Jenő	JELENÉSEK	dactylic	0.41	dactylic	
+Balassi Bálint	KÖNYÖRÖG ISTENNEK, HOGY BUJDOSÁSÁBAN VISELJE KEGYELMESEN GONDJÁT, S TERJESSZE IS REÁ ÚJOBB ÁLDÁSÁT	5-5_6		5-5_6	in the book: 5-5-6
+Petőfi Sándor	K... VILMOS BARÁTOMHOZ	4-4-3		4-4-3	
+Arany János	NEMZETŐR-DAL	4-6		4-6	
+Arany János	RÓZSA SÁNDOR	4-4_4		4-4_4	
+Arany János	A HAMIS TANÚ	6-6		6-6	
+Arany János	ÉN VAGYOK AZ ANYÁM ÁTKA...	4-4		4-4	
+Petőfi Sándor	EZRIVEL TEREM A FÁN A MEGGY...	False		4-4_1	
+Arany János	TÖRÖK BÁLINT	4-3-3		4-3-3	
+Petőfi Sándor	ANYÁM TYÚKJA	4-4		4-4	
+Arany János	A MÉH ROMÁNCA	4_6		4_6	
+Arany János	NYALKA HUSZÁR	4-6		4-6	
+Arany János	AZ Ó TORONY	4-6		4-6	
+Arany János	VÁGY [1]	4-6		4-6	
+Arany János	RÉGI JÓ IDŐBŐL	4-4_6		4-4_6	
+Petőfi Sándor	JÁRNAK, KELNEK SOKAN ZÖLD ERDŐBEN...	4-6		4-6	
+Petőfi Sándor	AZ ALFÖLD	4-6		4-6	
+Petőfi Sándor	SZILAJ PISTA	4-6		4-6	
+Petőfi Sándor	KUTYAKAPARÓ	4-6_6		4-6_6	
+Petőfi Sándor	A TISZA	4-6		4-6	
+Petőfi Sándor	KEMÉNY SZÉL FÚJ...	4-6		4-6	
+Petőfi Sándor	SZÜLŐFÖLDEMEN	4-6		4-6	
+Petőfi Sándor	A NEMZETHEZ	4-6		4-6	
+Petőfi Sándor	A VÉN ZÁSZLÓTARTÓ	4-6		4-6	
+Arany János	TOLDI	6-6		6-6	
+Arany János	CSALÁDI KÖR	6-6		6-6	
+Petőfi Sándor	JÁNOS VITÉZ	6-6		6-6	
+Arany János	LÓRA...!	6-6		4-2-4-2	
+Csokonai Vitéz Mihály	Szerelemdal a csikóbőrös kulacshoz	False		4-4	
+Kisfaludy Károly	10. Szülőföldem szép határa!	4-4		4-4	
+Petőfi Sándor	BEFORDÚLTAM A KONYHÁRA...	4-4		4-4	
+Balassi Bálint	HARMINCKILENCEDIK HOGY JULIÁRA TALÁLA, ÍGY KÖSZÖNE NÉKI	4-4		4-4	
+József Attila	VÁRAKOZÁS	4-4-4-4		4-4-4-4	
+Balassi Bálint	ADJ MÁR CSENDESSÉGET	6-6_4		6-6_4	
+Balassi Bálint	ÖTVENEGYEDIK HOGY NYERTE EL JULIA A CUPIDO NYILÁT, ÍJÁT S HOL VISELI, AZT ÍRJA MEG, KÖNYÖRÖGVÉN AZ VÉGÉBEN ITT IS AZ JULIÁNAK	5-5_6		5-5_6	
+Balassi Bálint	MÉGIS BŐVEBB SZÓVAL KÉRLELI ISTENNEK HARAGJÁT	5-5_6		5-5_6	
+Balassi Bálint	[HUSZONKILENCEDIK] VIGESIMUM NONUM CARMEN TENUI NEC PINGUI MINERVA COMPOSITUM	4-4-6		4-4-6	
+Petőfi Sándor	HÁBORU VOLT...	4-4_6		4-4_6	
+Kölcsey Ferenc	HIMNUSZ	False		4-3_6	
+Faludi Ferenc	TÜNDÉRKERT	4-4_4-3		4-4_4-3	
+Kazinczy Ferenc	BOR MELLETT	False		4-4_4-3	
+Csokonai Vitéz Mihály	A rózsabimbóhoz	False		4-4_4-3	It is not clear whether the book refers to a stanza or to the whole poem, but according to its own principles, the poem should not be a poem with qualitative meter. However, I take this poem as not well analyzed by the tool.
+József Attila	TISZTA SZÍVVEL	4-3		4-3	
+Ady Endre	FAJTÁDDAL EGYÜTT ÁTKOZLAK	5-5		5-5	
+Ady Endre	A PERC-EMBERKÉK UTÁN	5-5		5-5	
+Tinódi Sebestyén	SOKFÉLE RÉSZÖGÖSRŐL	4-4-5		4-4-5	
+József Attila	MINDEN RENDŰ EMBERI DOLGOKHOZ	4-4-5		4-4-5	
+Petőfi Sándor	RESZKET A BOKOR, MERT...	3-3		3-3	
+Petőfi Sándor	SZERETLEK, KEDVESEM!	6		6	
+Ady Endre	AZ ÁGYAM HÍVOGAT	3-3		3-3	
+József Attila	(KEDVESEM BETEGEN...)	3-3		3-3	
+Kosztolányi Dezső	Ilona	3		3	
+Babits Mihály	Kép egy falusi csárdában	3-3_2		3-3_2	
+Ady Endre	A LÓ KÉRDEZ	5-3-2		3-2-3-2	
+József Attila	MIKOR AZ UCCÁN ÁTMENT A KEDVES	5-3-2		3-2-3-2	
+József Attila	NYÁRI DÉLUTÁN	3-2-2_3-3		5-2_3-3	The tool outputs this analysis for this poem because it analyzes the boundaries between the bars independently from each other. Maybe, in the future, this method should be changed.
