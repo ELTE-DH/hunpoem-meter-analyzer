@@ -14,7 +14,7 @@ This software is licensed under the [CC BY-NC](https://creativecommons.org/licen
 
 ## Creator:
 
-Péter Horváth
+Anonymized for peer review
 
 
  
